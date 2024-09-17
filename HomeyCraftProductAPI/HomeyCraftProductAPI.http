@@ -1,0 +1,6 @@
+@HomeyCraftProductAPI_HostAddress = http://localhost:5052
+
+GET {{HomeyCraftProductAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
